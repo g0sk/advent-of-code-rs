@@ -1,0 +1,1 @@
+/Users/oscarsantana/Documents/projects/advent-of-code-rs/target/debug/advent-of-code-rs: /Users/oscarsantana/Documents/projects/advent-of-code-rs/src/days/day1.rs /Users/oscarsantana/Documents/projects/advent-of-code-rs/src/days/mod.rs /Users/oscarsantana/Documents/projects/advent-of-code-rs/src/main.rs
